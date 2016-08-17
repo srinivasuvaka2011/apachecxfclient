@@ -1,4 +1,4 @@
-package apachecxfclient;
+package com.vasu.learning.apachecxfclient;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
